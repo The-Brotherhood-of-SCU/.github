@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to The **Brotherhood of SCU**
+Welcome to **The Brotherhood of SCU**
 
 Check the [Blog](https://the-brotherhood-of-scu.github.io/) to get more infomation
 
