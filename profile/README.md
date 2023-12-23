@@ -2,7 +2,12 @@
 
 Welcome to **The Brotherhood of SCU**
 
-Check the [Blog](https://the-brotherhood-of-scu.github.io/) to get more infomation
+[Welcome&Join Us](https://the-brotherhood-of-scu.github.io/2023/12/22/hello-world/#more)
+
+[Offical Blog](https://the-brotherhood-of-scu.github.io/)
+
+[About Us](https://the-brotherhood-of-scu.github.io/about/) 
+
 
 <!--
 
