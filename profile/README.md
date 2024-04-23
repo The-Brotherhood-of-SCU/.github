@@ -1,3 +1,8 @@
+## Links
+[计算机网络](https://the-brotherhood-of-scu.github.io/network_docs/)   
+[锐评](https://the-brotherhood-of-scu.github.io/herui_saying/)    
+[思法课](https://the-brotherhood-of-scu.github.io/Morality-Review-Material/)    
+[创高体育理论](https://the-brotherhood-of-scu.github.io/AnswerForPE_Web/)    
 ## Hi there 👋
 
 Welcome to **The Brotherhood of SCU**
