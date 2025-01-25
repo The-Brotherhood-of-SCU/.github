@@ -7,7 +7,7 @@
 
 Welcome to **The Brotherhood of SCU**
 
-[Welcome & Join Us](https://the-brotherhood-of-scu.github.io/2023/12/22/hello-world/)
+[Welcome](https://the-brotherhood-of-scu.github.io/2023/12/22/hello-world/)
 
 [Offical Blog](https://the-brotherhood-of-scu.github.io/)
 
