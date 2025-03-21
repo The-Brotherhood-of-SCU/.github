@@ -28,7 +28,7 @@
 ## 👨💻 如何参与
 
 ### 1. 加入组织
-点击右上角 `Watch` 按钮订阅动态，通过发送邮件至[The_Brotherhood_of_SCU@outlook.com](mailto:The_Brotherhood_of_SCU@outlook.com)提交GitHub ID或邮箱
+点击右上角 `Follow` 按钮订阅动态，通过发送邮件至[The_Brotherhood_of_SCU@outlook.com](mailto:The_Brotherhood_of_SCU@outlook.com)提交GitHub ID或邮箱
 
 ### 2. 贡献项目
 ```bash
