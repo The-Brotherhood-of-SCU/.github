@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Join%20Us-GitHub%20Org-blue?logo=github)](https://github.com/the-brotherhood-of-scu)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![QQ群](https://img.shields.io/badge/QQ群-835747109-purple.svg)](#)
+[![QQ群](https://img.shields.io/badge/QQ群-835747109-purple.svg)](https://qm.qq.com/q/7tyJR3myVq)
 
 **四川大学开发者共建开源社区**  
 🔥 代码为纽带 · 创新为信仰 · 社区为家园 🔥
